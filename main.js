@@ -1,7 +1,5 @@
 let pasww = "asdf";
 i = 1;
-let cont;
- 
 
 while (i <= 3) {
     let contra = (prompt(alert("Ingrese su contraseña")));
